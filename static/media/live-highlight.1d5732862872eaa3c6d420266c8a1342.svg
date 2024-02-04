@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/tabbar/live-highlight</title>
+    <defs>
+        <filter x="-9.3%" y="-8.9%" width="122.2%" height="121.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.854901961   0 0 0 0 0.294117647   0 0 0 0 0.968627451  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="100%" y1="14.72%" x2="0%" y2="85.28%" id="linearGradient-2">
+            <stop stop-color="#F1DBFF" offset="0%"></stop>
+            <stop stop-color="#FF88EB" offset="47.1902808%"></stop>
+            <stop stop-color="#3A99EB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="30.5091986%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#EF82FC" stop-opacity="0.579190341" offset="0%"></stop>
+            <stop stop-color="#FF328B" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="0.747126437" y="0.22250767" width="24" height="20" rx="3.09770115"></rect>
+        <linearGradient x1="110.996552%" y1="69.4684701%" x2="0%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#24DFFF" stop-opacity="0.0317690122" offset="0%"></stop>
+            <stop stop-color="#24DFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="81.12069%" y1="75.4282058%" x2="24.4897959%" y2="50%" id="linearGradient-6">
+            <stop stop-color="#24DFFF" stop-opacity="0.0317690122" offset="0%"></stop>
+            <stop stop-color="#24DFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="控件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/tabbar/live-highlight">
+            <g id="编组" filter="url(#filter-1)" transform="translate(0.000000, -1.000000)">
+                <g id="编组-4备份" stroke-linejoin="round" transform="translate(1.252874, 6.777492)">
+                    <g id="矩形">
+                        <use fill="url(#linearGradient-3)" fill-rule="evenodd" style="mix-blend-mode: screen;" xlink:href="#path-4"></use>
+                        <rect stroke="#DA4BF7" stroke-width="0.1" stroke-linejoin="square" x="0.797126437" y="0.27250767" width="23.9" height="19.9" rx="3.09770115"></rect>
+                    </g>
+                    <path d="M14.4233716,6.66475096 C15.4435444,6.66475096 19.0141492,12.0188023 18.5040628,13.0896126 C17.9939764,14.1604229 10.8527669,14.1604229 10.3426805,13.0896126 C9.83259413,12.0188023 13.4031989,6.66475096 14.4233716,6.66475096 Z" id="三角形" fill="url(#linearGradient-5)" style="mix-blend-mode: screen;" transform="translate(14.423372, 10.278736) rotate(-270.000000) translate(-14.423372, -10.278736) "></path>
+                </g>
+                <rect id="矩形" fill="url(#linearGradient-6)" style="mix-blend-mode: screen;" transform="translate(8.159582, 8.602045) rotate(36.000000) translate(-8.159582, -8.602045) " x="3.15958174" y="1.60204522" width="10" height="14" rx="5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

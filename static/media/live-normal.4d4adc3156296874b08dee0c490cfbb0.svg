@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/tabbar/live-normal</title>
+    <defs>
+        <linearGradient x1="100%" y1="14.72%" x2="0%" y2="85.28%" id="linearGradient-1">
+            <stop stop-color="#F1DBFF" offset="0%"></stop>
+            <stop stop-color="#FF88EB" offset="47.1902808%"></stop>
+            <stop stop-color="#3A99EB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="30.5091986%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#ADB4EC" offset="0%"></stop>
+            <stop stop-color="#ADB4EC" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="0.747126437" y="0.22250767" width="24" height="20" rx="3.09770115"></rect>
+        <linearGradient x1="99.8652645%" y1="50%" x2="4.68098109%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#696D91" offset="0%"></stop>
+            <stop stop-color="#696D91" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="99.8652645%" y1="50%" x2="4.68098109%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#696D91" offset="0%"></stop>
+            <stop stop-color="#696D91" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon/tabbar/live-normal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.4">
+        <g id="编组" transform="translate(0.000000, -1.000000)">
+            <g id="编组-4备份" stroke-linejoin="round" transform="translate(1.252874, 6.777492)">
+                <g id="矩形">
+                    <use fill="url(#linearGradient-2)" fill-rule="evenodd" style="mix-blend-mode: screen;" xlink:href="#path-3"></use>
+                    <rect stroke="#ADB4EC" stroke-width="0.1" stroke-linejoin="square" x="0.797126437" y="0.27250767" width="23.9" height="19.9" rx="3.09770115"></rect>
+                </g>
+                <path d="M14.4233716,6.66475096 C15.4435444,6.66475096 19.0141492,12.0188023 18.5040628,13.0896126 C17.9939764,14.1604229 10.8527669,14.1604229 10.3426805,13.0896126 C9.83259413,12.0188023 13.4031989,6.66475096 14.4233716,6.66475096 Z" id="三角形" fill="url(#linearGradient-4)" style="mix-blend-mode: screen;" transform="translate(14.423372, 10.278736) rotate(-270.000000) translate(-14.423372, -10.278736) "></path>
+            </g>
+            <rect id="矩形" fill="url(#linearGradient-5)" style="mix-blend-mode: screen;" transform="translate(8.159582, 8.602045) rotate(36.000000) translate(-8.159582, -8.602045) " x="3.15958174" y="1.60204522" width="10" height="14" rx="5"></rect>
+        </g>
+    </g>
+</svg>
